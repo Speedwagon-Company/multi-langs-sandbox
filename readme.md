@@ -14,7 +14,7 @@
 - [ ] ruby
 - [ ] rust
 - [ ] scala
-- [ ] c3
+- [ ] zig
 
 ### На подумать
 * clojure
