@@ -2,6 +2,7 @@
 - [ ] c
 - [ ] c#
 - [ ] c++
+- [ ] c3
 - [ ] crystal
 - [ ] elixir
 - [ ] golang
@@ -13,6 +14,7 @@
 - [ ] ruby
 - [ ] rust
 - [ ] scala
+- [ ] c3
 
 ### На подумать
 * clojure
